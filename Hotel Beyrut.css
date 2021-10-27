@@ -1,0 +1,50 @@
+body{
+    background-color: white;
+    background-image: url("pictures/sky.jpg");
+}
+
+ul, #gm{
+    list-style-type: none;
+}
+
+#container{
+    background-color: lightpink;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1350px;
+}
+
+button, #button, #header{
+    color: white;
+    background-color: #FC00FF;
+    text-align: center;
+    font-style: italic;
+    text-decoration: none;
+}
+
+#nav{
+    float: left;
+    text-align: center;
+    padding: 30px;
+}
+
+#section{
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    font-size: 20px;
+    padding: 30px;
+}
+
+#sectionvideo, #sectiongallery, #mainlogo, #gm, #sectionvideo{
+    text-align: center;
+}
+
+#contact, #businesses, #gallery, #follow, #imgtext, #trailer{
+    text-align: center;
+    font-style: italic;
+}
+
+#footer{
+    background-color: gray;
+    color: white;
+    text-align: center;}
